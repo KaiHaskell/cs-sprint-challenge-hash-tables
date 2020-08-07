@@ -27,4 +27,3 @@ def reconstruct_trip(tickets, length):
             route[i] = flight_path[route[i-1]]
 
     return route
-    return route
